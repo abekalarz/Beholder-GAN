@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe9ee17a-4e8b-4ff9-813e-ce9a56672065" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements-pip.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-pip.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611750334705</updated>
-      <workItem from="1611750335734" duration="221000" />
+      <workItem from="1611750335734" duration="663000" />
     </task>
     <servers />
   </component>
